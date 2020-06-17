@@ -1,0 +1,11 @@
+/* Light values */
+:root {
+  --bg-color: #ffff;
+  --text-color: #000000;
+}
+
+/* Dark values */
+[data-dark="true"] {
+  --bg-color: #000;
+  --text-color: #FFFFFF;
+}
